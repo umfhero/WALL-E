@@ -114,32 +114,24 @@ body {
     position: right;
     background-color: #333;
     min-width: 10px;
-    
-
 }
 
 .dropdown-content a {
-
     color: black;
-    padding: 0px 3px;
-    display:inline ;
-    
-    
-    
+    display:inline;
+    float: right;
 }
 
 .dropdown-content a:hover {
     background-color: rgb(168, 168, 168)}
 
-
 .dropdown:hover .dropdown-content {
-    display: block;
-    padding: 80px;
+    display: inline; 
     float: right;
-    
+    height: auto;
+
 }
 
 .dropdown:hover .dropbtn {
     background-color: #000000;
-
 }
