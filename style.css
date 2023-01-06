@@ -19,6 +19,14 @@ body {
   font-size: 40px;
 }
 
+img {
+    float: left;
+    border-radius: 1px;
+    padding: 10px;
+    width: 250px;
+
+  }
+
 .navbar {
   overflow: hidden;
   background-color: #333;
@@ -91,4 +99,58 @@ body {
 .fa-solid fa-user {
     position: static;
     border: 3px solid #73AD21;  
+}
+
+
+
+
+
+
+
+
+/* Before thing*/
+.dropbtn {
+    
+    background-color: #4CAF50;
+    color: white;
+    padding: 1px;
+    font-size: 1px;
+    border: none;
+    cursor: pointer;
+    
+
+}
+
+.dropdown-content {
+    display: none;
+    position: left;
+    background-color: #ffffff;
+    min-width: 10px;
+    
+
+}
+
+.dropdown-content a {
+
+    color: black;
+    padding: 6px 12px;
+    text-decoration: none;
+    display: block;
+    
+    
+}
+
+.dropdown-content a:hover {
+    background-color: rgb(218, 218, 218)}
+
+
+.dropdown:hover .dropdown-content {
+    display: block;
+    padding: 80px;
+    
+}
+
+.dropdown:hover .dropbtn {
+    background-color: #000000;
+
 }
