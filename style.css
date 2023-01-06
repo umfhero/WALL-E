@@ -41,6 +41,7 @@ body {
 
 .navbar a.right {
   float: right;
+  position: relative; top: 10px;
 }
 
 .navbar a:hover {
@@ -106,22 +107,12 @@ body {
 
 
 /* Before thing*/
-.dropbtn {
-    
-    background-color: #4CAF50;
-    color: white;
-    padding: 1px;
-    font-size: 1px;
-    border: none;
-    cursor: pointer;
-    
 
-}
 
 .dropdown-content {
     display: none;
-    position: left;
-    background-color: #ffffff;
+    position: right;
+    background-color: #333;
     min-width: 10px;
     
 
@@ -130,20 +121,21 @@ body {
 .dropdown-content a {
 
     color: black;
-    padding: 6px 12px;
-    text-decoration: none;
-    display: block;
+    padding: 0px 3px;
+    display:inline ;
+    
     
     
 }
 
 .dropdown-content a:hover {
-    background-color: rgb(218, 218, 218)}
+    background-color: rgb(168, 168, 168)}
 
 
 .dropdown:hover .dropdown-content {
     display: block;
     padding: 80px;
+    float: right;
     
 }
 
