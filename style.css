@@ -19,6 +19,7 @@ body {
   font-size: 40px;
 }
 .logo {
+  transition:ease-in 2s;
   width: 300px;
   float: left;
   border-radius: 1px;
@@ -86,6 +87,7 @@ body {
   .row {   
     flex-direction: column;
   }
+  
 }
 
 @media screen and (max-width: 400px) {
@@ -97,8 +99,9 @@ body {
 
 .fa-solid fa-user {
     position: static;
-    border: 3px solid #73AD21;  
+    border: 3px solid #73AD21;
 }
+
 
 
 
@@ -111,27 +114,28 @@ body {
 
 .dropdown-content {
     display: none;
-    position: right;
+    float: right;
     background-color: #333;
-    min-width: 10px;
 }
 
 .dropdown-content a {
+    transition: all 1s ease-in;
     color: black;
-    display:inline;
     float: right;
+    width: auto;
 }
-
-.dropdown-content a:hover {
-    background-color: rgb(168, 168, 168)}
+  .dropdown-content a:hover {
+    background-color: rgb(168, 168, 168);
+  }
 
 .dropdown:hover .dropdown-content {
+    transition: all 1s ease-in;
     display: inline; 
     float: right;
-    height: auto;
-
+    
 }
 
 .dropdown:hover .dropbtn {
     background-color: #000000;
+
 }
