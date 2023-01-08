@@ -151,7 +151,7 @@ body {
 
 }
 
-/* Wave*/
+/* Wave, to space*/
 
 .Wave {
   position: relative;
@@ -179,3 +179,4 @@ body {
   height:auto;
   vertical-align: bottom;
 }
+
