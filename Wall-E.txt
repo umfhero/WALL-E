@@ -1,0 +1,32 @@
+A Purechase ticket holding website to allow the
+wealthy of the wealthy of this poor riddent planet.
+
+This website needs to show clear, intuative and reactive responses.
+Ontop of this, the webpage needs clear, simple and linked icons.
+The images in the finsihed product will need to be clear, relatable 
+and fixed to the reactiveness.
+
+--- 
+
+This is project 1 which for the first ever project we have probely ever done 
+without a full tutorial or help from too many people is incredible (IMOP). 
+This fille will be for issues that im aware of or items i want to learn to 
+create to then carry over into the new website.
+
+Images, arts and resources are all going to be place holders. In the project 2,
+i would like to aim for something that is more cohesive, this website still feels 
+a little stuck together. I really want to learn the skill of having one long page 
+fully look matching together (Without it all being one colour).
+
+---
+Issues: (Im aware but not important to fix)
+* Image resolution.
+* Screen needs to be limited (Not maxed)
+* Icons should be aimed to be enlied and not luckily adjusted Ontop
+
+
+---
+Items i want to learn and carry over:
+* Button rounded corners 
+* Simplistic icons
+* 
