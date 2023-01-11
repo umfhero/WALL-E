@@ -17,6 +17,7 @@ Images, arts and resources are all going to be place holders. In the project 2,
 i would like to aim for something that is more cohesive, this website still feels 
 a little stuck together. I really want to learn the skill of having one long page 
 fully look matching together (Without it all being one colour).
+
 ---
 Additions: Items I WANT to add;
 * Custom scroll bar on the left (Would be able to avoid bubble or intuative designs)
