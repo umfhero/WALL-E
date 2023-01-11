@@ -16,6 +16,5 @@ This Github Repo is meant to act as a testing sandbox for the team to be able to
 
 umf, Starbug10
  
-ex. [@Starbug10](https://yourdomain idk.com)
 ex. [@umflhero](https://umfhero.com)
 
