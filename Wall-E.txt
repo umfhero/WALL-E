@@ -1,4 +1,4 @@
-A Purechase ticket holding website to allow the
+A Purchase ticket holding website to allow the
 wealthy of the wealthy of this poor riddent planet.
 
 This website needs to show clear, intuative and reactive responses.
@@ -8,7 +8,7 @@ and fixed to the reactiveness.
 
 --- 
 
-This is project 1 which for the first ever project we have probely ever done 
+This is project 1 which for the first ever project we have probably ever done 
 without a full tutorial or help from too many people is incredible (IMOP). 
 This fille will be for issues that im aware of or items i want to learn to 
 create to then carry over into the new website.
@@ -26,7 +26,7 @@ Additions: Items I WANT to add;
 
 ---
 Issues: (Im aware but not important to fix)
-* Image resolution.
+* Image resolution. 
 * Screen needs to be limited (Not maxed)
 * Icons should be aimed to be enlied and not luckily adjusted Ontop
 * May not be fixable but website fking dyes when you load images, (The spaceship image)
@@ -34,6 +34,6 @@ Issues: (Im aware but not important to fix)
 
 ---
 Items i want to learn and carry over:
-* Button rounded corners 
+* Button rounded corners ✓
 * Simplistic icons
 * 

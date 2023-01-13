@@ -1,0 +1,13 @@
+Error list:
+-Main screen form image doesnt stay in the same
+location when screen size in changed or the screen 
+is shrunk or widened.
+
+-Similar issue on profile page with the ".class .main" 
+Div not staying in the correct location when shrunk
+or widened.
+
+Plz fix. ♡ 🙏
+
+مع معرفة HTML كبيرة تأتي مسؤولية كبيرة.
+-Nathan 2023
