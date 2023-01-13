@@ -119,16 +119,6 @@ body {
 }
 
 
-.BackgroundSpaceShip {
-  position: relative;
-  transform: translate(60px,-715px);
-  border-radius: 20px;
-  width: 30%;
-  height: 50%;
-  margin: 50px;
-}
-
-
 
 
 
