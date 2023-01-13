@@ -26,7 +26,7 @@ body {
   font-size: 40px;
 }
 .logo {
-  width: 300px;
+  width: 400px;
   float: left;
   border-radius: 1px;
   padding: 10px;
@@ -117,6 +117,17 @@ body {
 .BottomBlackImage {
   width: 100%;
 }
+
+
+.BackgroundSpaceShip {
+  position: relative;
+  transform: translate(60px,-715px);
+  border-radius: 20px;
+  width: 30%;
+  height: 50%;
+  margin: 50px;
+}
+
 
 
 
